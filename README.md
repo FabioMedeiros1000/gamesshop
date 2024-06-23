@@ -12,7 +12,6 @@ Este projeto é uma página web básica desenvolvida no início do curso de Enge
     - **Endereço**: Endereço fictício onde a loja está localizada.
 
 > **Nota**: O texto foi preenchido usando Lorem Ipsum para fins de demonstração.
-> **Nota**: Os links presentes no projeto não direcionam para outra página. Apenas foram colocados com fins de demonstração.
 
 ## Link do Projeto
 
